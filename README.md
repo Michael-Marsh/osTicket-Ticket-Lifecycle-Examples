@@ -1,4 +1,11 @@
+<p align="center">
+<img src="https://www.opensaas.online/images/osticket-logo-img.png" height="35%" width="35%"/>
+</p>
+
+<h1>osTicket - LifeCycle Examples Setup</h1>
+
 This tutorial demonstrates the creation of tickets as an end user .
+<br />
 
 Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking.
 
